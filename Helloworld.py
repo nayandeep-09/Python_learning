@@ -1,5 +1,4 @@
-import pyjokes
-print ("Here is a joke")
-
-joke=pyjokes.get_joke()
-print (joke)
+import pyttsx3
+engine = pyttsx3.init()
+engine.say("My name is nayan")
+engine.runAndWait()
