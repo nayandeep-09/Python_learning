@@ -1,10 +1,3 @@
-#Q1-Write a program to print Twinkle twinkle little star poem in python. 
-#Q2. Use REPL and print the table of 5 using it. 
-#Q3. Install an external module and use it to perform an operation of your interest. 
-#Q4. Write a python program to print the contents of a directory using the os module. Search online for the function which does that. 
-#Q5. Label the program written in problem 4 with comments.
-
-
 #Q1- Print the poem - Twinkle, twinkle, little star
 
 print ('''Twinkle, twinkle, little star,
@@ -32,14 +25,3 @@ Lights the traveler in the dark,
 Though I know not what you are,
 Twinkle, twinkle, little star.
 ''')
-
-#Q2. Use REPL and print the table of 5 using it. 
-
-#In CMD terminal
-#1+2
-#2-1
-#3*2
-#6/2
-
-#Q3. Install an external module and use it to perform an operation of your interest. 
-
