@@ -91,3 +91,4 @@ print(a or b)
 # It checks whether the value of a or b is true or not. If either is true then it returns true otherwise false.
 print(not a)
 # It checks whether the value of a is false or not. If it is false then it returns true otherwise false.
+
