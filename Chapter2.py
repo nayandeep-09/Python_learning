@@ -92,3 +92,14 @@ print(a or b)
 print(not a)
 # It checks whether the value of a is false or not. If it is false then it returns true otherwise false.
 
+# A Simple input program to take a number from the user and print it.
+print ("Welcome to Practice Space! This is a simple program to help you practice coding. You can write your code here and test it out. Let's get started!")
+
+input("Press Enter to continue...")
+a = input("Please enter a number: ")
+try:
+    a = int(a)
+    print(f"You entered the number: {a}")
+except ValueError:
+    print("That's not a valid number!") 
+    
